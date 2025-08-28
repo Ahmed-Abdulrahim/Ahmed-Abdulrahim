@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdulrahim&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Abdulrahim" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Abdulrahim" alt="Ahmed-Abdulrahim" />
-  </a>
-</p>
+
 
 <p align="left">
   <a href="https://twitter.com/he_mo09" target="blank">
@@ -80,6 +76,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdulrahim&" alt="Ahmed-Abdulrahim" />
 </p>
+
 
 
 

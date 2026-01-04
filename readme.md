@@ -1,84 +1,86 @@
-<h1 align="center">Hi 👋, I'm Ahmed AbdulRahim</h1>
-<h3 align="center">A passionate Software Engineering from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Abdulrahim</h1>
+<h3 align="center">Full Stack .NET Developer | Software Engineer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdulrahim&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Abdulrahim" />
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
 </p>
 
+---
 
+## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/he_mo09" target="blank">
-    <img src="https://img.shields.io/twitter/follow/he_mo09?logo=twitter&style=for-the-badge" alt="he_mo09" />
+<p align="center">
+  <a href="https://github.com/Ahmed-Abdulrahim" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-📫 **How to reach me**: [ahmedabdulrahim92001@gmail.com](mailto:ahmedabdulrahim92001@gmail.com)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/he_mo09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="he_mo09" height="30" width="40" />
+  <a href="https://linkedin.com/in/ahmedd-abdelrahim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/ahmedd-abdelrahim09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedd-abdelrahim09" height="30" width="40" />
+  <a href="https://twitter.com/He_mo09" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
-  <a href="https://fb.com/hemo0o9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemo0o9" height="30" width="40" />
+  <a href="https://facebook.com/Hemo0o9" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/ahmaa_mohamedd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmaa_mohamedd" height="30" width="40" />
+  <a href="https://instagram.com/ahmedd_abdulrahim" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- نفس الأدوات بتاعتك تفضل زي ما هي -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+  <a href="mailto:ahmedabdulrahim92001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdulrahim&show_icons=true&locale=en&layout=compact" alt="Ahmed-Abdulrahim" />
-</p>
+---
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Abdulrahim&show_icons=true&locale=en" alt="Ahmed-Abdulrahim" />
-</p>
+## 🛠️ Tech Stack Overview
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdulrahim&" alt="Ahmed-Abdulrahim" />
-</p>
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat)
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+---
 
+## 👨‍💻 About Me
 
+I'm a Full Stack .NET Developer with a backend-heavy focus. I build real-world, API-driven systems using **C#**, **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.
+
+My approach centers on writing clean, maintainable code through:
+
+- **Clean Architecture** – Separation of concerns and layered design
+- **SOLID Principles** – Building flexible, extensible systems
+- **Repository & Unit of Work Patterns** – Structured data access and transaction handling
+- **RESTful API Design** – Consistent, predictable, and well-documented endpoints
+
+I focus on solving real problems with proven engineering patterns—not just writing code that works, but code that scales and lasts.
+
+- 🔧 **Primary Stack:** C# | .NET | ASP.NET Core | EF Core | SQL Server
+- 🏗️ **Focus Areas:** Backend systems, API architecture, database design
+- 🌱 **Currently Exploring:** Advanced .NET patterns, cloud deployment, performance optimization
+- 💬 **Ask Me About:** C#, .NET, RESTful APIs, Entity Framework, Clean Architecture
+
+---

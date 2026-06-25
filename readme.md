@@ -41,7 +41,7 @@
 
 📍 &nbsp; Based in **Egypt** 🇪🇬
 
-📄 &nbsp; Check out my **[Resume / CV](https://drive.google.com/file/d/1s8TcYkjDWTmYTBJ_4strj1gcZRt7wjBk/view?usp=sharing)**
+📄 &nbsp; Check out my **[Resume / CV](https://drive.google.com/file/d/1isGV7C14_dBBvhlfJWDReY3I4luw2rtq/view?usp=sharing)**
 
 <br clear="both" />
 
@@ -159,7 +159,7 @@
 
 <!-- Resume / CV Download -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1s8TcYkjDWTmYTBJ_4strj1gcZRt7wjBk/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1isGV7C14_dBBvhlfJWDReY3I4luw2rtq/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_My_Resume-512BD4?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="Resume / CV" />
   </a>
 </p>
